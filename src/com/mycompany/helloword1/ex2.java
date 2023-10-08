@@ -1,5 +1,6 @@
 package com.mycompany.helloword1;
 
+
 public class ex2 {
     public static void main (String[] args)
     {
